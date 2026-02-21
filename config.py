@@ -8,4 +8,4 @@ class Config:
     SQLALCHEMY_TRACK_MODIFICATIONS = False
 
     # postgresql://postgres:password@db:5432/mydb
-    # DB_LINK='postgresql://{user_name}:{password}@{host}:{port}/{dbname}'
+    # DB_LINK='postgresql://postgres:sri23sree02@practice-ecr.cjuqek26wuv5.ap-south-1.rds.amazonaws.com:5432/practiceecr'
